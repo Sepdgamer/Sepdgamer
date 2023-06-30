@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sepdgamer
 - 👀 I’m interested in minecraft plugin coding
-_ 🌱 I’m currently learning java coding 
+- 🌱 I’m currently learning java coding 
 - 📫 How to reach me Discord Sepd#3375
 
 <!---
